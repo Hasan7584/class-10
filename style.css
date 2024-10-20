@@ -98,6 +98,8 @@ ul>li>a {
     gap: 80px;
   justify-content: center;
   padding: 5px 90px;
+  align-items: center;
+  margin-left: 150px;
   
 }
 
@@ -301,7 +303,7 @@ h5{
     .main-part{
         display: flex;
         flex-direction: column;
-        padding-left: 100px;
+        padding-left: 10px;
         
     }
     
@@ -423,11 +425,6 @@ h5{
     text-align: start;
     
  
-}
-.pic-move{
-   width:100%
-
-
 }
 
 
